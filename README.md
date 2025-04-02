@@ -24,6 +24,6 @@ bash scripts/generate_mask1.sh
 
 ### Datasets
 ```
-You can download the training dataset from https://drive.google.com/drive/folders/1JWg-8invelYvxfV4f-si4ngwUaZMfDJd?usp=drive_link
+You can download the training dataset from https://drive.google.com/drive/folders/1JWg-8invelYvxfV4f-si4ngwUaZMfDJd?usp=sharing
 ```
 
